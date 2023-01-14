@@ -1,4 +1,4 @@
-# Machine Learning Trading Alogrithm
+# Blockchain Transaction App
 
 This program utlizes Streamlit, Ganache, and Web3 to showcase blockchain wallet functionality through transactions to demo candidates. 
 
