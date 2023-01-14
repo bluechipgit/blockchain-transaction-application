@@ -50,9 +50,9 @@ To use the this python program, first open Ganache and start a temporary workspa
 
 Run the following command:
 
-'''python
+```python
   python fintech_finder.py
-'''
+```
 
 ---
 
